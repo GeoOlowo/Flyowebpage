@@ -1,2 +1,4 @@
 # Flyowebpage
-Group 185
+First capstone projectGroup 185
+Team lead @Olamide316
+Ass team lead 
